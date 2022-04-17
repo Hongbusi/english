@@ -76,3 +76,31 @@
 词性缩写：int.
 
 常见的感叹词：what、yum、blah
+
+## 9 种成分
+
+- subject（主）
+- predicate（谓）
+- object（宾）
+- attribute（定语）
+- adverbial（状语）
+- object complement（宾补）
+- subject complement（表）
+- double object（双宾）
+- apposition（同位）
+
+## 8 种语型
+
+### 简单句
+
+- 主 + 谓
+- 主 + 谓 + 宾
+- 主 + 系 + 表
+- 主 + 谓 + 双宾
+- 主 + 谓 + 宾 + 宾补
+
+### 复合句
+
+- 名词性从句
+- 定语从句
+- 状语从句
